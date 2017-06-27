@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\bin\Debug\7SentencetheThief.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\bin\Debug\7SentencetheThief.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\bin\Debug\7SentencetheThief.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\obj\Debug\7SentencetheThief.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\obj\Debug\7SentencetheThief.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\7SentencetheThief\obj\Debug\7SentencetheThief.csprojResolveAssemblyReference.cache

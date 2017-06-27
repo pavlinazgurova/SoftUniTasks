@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\bin\Debug\6SquareNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\bin\Debug\6SquareNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\bin\Debug\6SquareNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\obj\Debug\6SquareNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\obj\Debug\6SquareNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\6SquareNumbers\obj\Debug\6SquareNumbers.csprojResolveAssemblyReference.cache

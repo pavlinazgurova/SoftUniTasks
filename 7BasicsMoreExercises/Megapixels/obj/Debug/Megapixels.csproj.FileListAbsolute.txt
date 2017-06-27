@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\bin\Debug\Megapixels.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\bin\Debug\Megapixels.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\bin\Debug\Megapixels.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\obj\Debug\Megapixels.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\obj\Debug\Megapixels.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\Megapixels\obj\Debug\Megapixels.pdb

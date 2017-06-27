@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

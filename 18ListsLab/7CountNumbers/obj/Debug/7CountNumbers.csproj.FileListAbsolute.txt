@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\bin\Debug\7CountNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\bin\Debug\7CountNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\bin\Debug\7CountNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\obj\Debug\7CountNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\obj\Debug\7CountNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\7CountNumbers\obj\Debug\7CountNumbers.pdb

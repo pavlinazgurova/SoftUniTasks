@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\bin\Debug\1RemoveNegativesandReverse.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\bin\Debug\1RemoveNegativesandReverse.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\bin\Debug\1RemoveNegativesandReverse.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\obj\Debug\1RemoveNegativesandReverse.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\obj\Debug\1RemoveNegativesandReverse.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\1RemoveNegativesandReverse\obj\Debug\1RemoveNegativesandReverse.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\bin\Debug\3AMinerTask.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\bin\Debug\3AMinerTask.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\bin\Debug\3AMinerTask.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\obj\Debug\3AMinerTask.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\obj\Debug\3AMinerTask.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\3AMinerTask\obj\Debug\3AMinerTask.pdb

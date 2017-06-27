@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ComparingFloats\obj\Debug\ComparingFloats.pdb

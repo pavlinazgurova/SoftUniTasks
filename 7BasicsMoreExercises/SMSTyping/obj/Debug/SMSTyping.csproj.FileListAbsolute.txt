@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\bin\Debug\SMSTyping.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\SMSTyping\obj\Debug\SMSTyping.pdb

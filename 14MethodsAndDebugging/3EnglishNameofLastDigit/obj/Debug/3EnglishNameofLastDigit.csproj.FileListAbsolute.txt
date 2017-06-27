@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\3EnglishNameofLastDigit\bin\Debug\3EnglishNameofLastDigit.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\3EnglishNameofLastDigit\bin\Debug\3EnglishNameofLastDigit.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\3EnglishNameofLastDigit\bin\Debug\3EnglishNameofLastDigit.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\3EnglishNameofLastDigit\obj\Debug\3EnglishNameofLastDigit.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\3EnglishNameofLastDigit\obj\Debug\3EnglishNameofLastDigit.pdb

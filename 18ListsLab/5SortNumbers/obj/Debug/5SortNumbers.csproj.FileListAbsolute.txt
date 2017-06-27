@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\bin\Debug\5SortNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\bin\Debug\5SortNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\bin\Debug\5SortNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\obj\Debug\5SortNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\obj\Debug\5SortNumbers.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\5SortNumbers\obj\Debug\5SortNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\RestaurantDiscount\obj\Debug\RestaurantDiscount.csprojResolveAssemblyReference.cache

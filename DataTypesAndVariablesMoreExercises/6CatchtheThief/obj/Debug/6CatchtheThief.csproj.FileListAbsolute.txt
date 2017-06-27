@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\bin\Debug\6CatchtheThief.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\bin\Debug\6CatchtheThief.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\bin\Debug\6CatchtheThief.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\obj\Debug\6CatchtheThief.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\obj\Debug\6CatchtheThief.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\6CatchtheThief\obj\Debug\6CatchtheThief.pdb

@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\14BoatSimulator\bin\Debug\14BoatSimulator.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\14BoatSimulator\bin\Debug\14BoatSimulator.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\14BoatSimulator\bin\Debug\14BoatSimulator.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\14BoatSimulator\obj\Debug\14BoatSimulator.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\14BoatSimulator\obj\Debug\14BoatSimulator.pdb

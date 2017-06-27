@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\bin\Debug\6PrimeNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\bin\Debug\6PrimeNumber.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\bin\Debug\6PrimeNumber.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\obj\Debug\6PrimeNumber.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\obj\Debug\6PrimeNumber.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\6PrimeNumber\obj\Debug\6PrimeNumber.pdb

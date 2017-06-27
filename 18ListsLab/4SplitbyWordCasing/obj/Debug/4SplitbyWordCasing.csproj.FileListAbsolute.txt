@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\bin\Debug\4SplitbyWordCasing.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\bin\Debug\4SplitbyWordCasing.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\bin\Debug\4SplitbyWordCasing.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\obj\Debug\4SplitbyWordCasing.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\obj\Debug\4SplitbyWordCasing.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\4SplitbyWordCasing\obj\Debug\4SplitbyWordCasing.pdb

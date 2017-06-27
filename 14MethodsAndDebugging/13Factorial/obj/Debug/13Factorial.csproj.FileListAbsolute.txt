@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\bin\Debug\13Factorial.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\bin\Debug\13Factorial.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\bin\Debug\13Factorial.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\obj\Debug\13Factorial.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\obj\Debug\13Factorial.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\13Factorial\obj\Debug\13Factorial.pdb

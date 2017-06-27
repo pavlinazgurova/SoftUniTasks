@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\18ListsLab\2AppendLists\bin\Debug\2AppendLists.exe.config
+D:\Унсс\СофтУни\Tech Module\18ListsLab\2AppendLists\bin\Debug\2AppendLists.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\2AppendLists\bin\Debug\2AppendLists.pdb
+D:\Унсс\СофтУни\Tech Module\18ListsLab\2AppendLists\obj\Debug\2AppendLists.exe
+D:\Унсс\СофтУни\Tech Module\18ListsLab\2AppendLists\obj\Debug\2AppendLists.pdb

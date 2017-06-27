@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\16InstructionSet\bin\Debug\16InstructionSet.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\16InstructionSet\bin\Debug\16InstructionSet.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\16InstructionSet\bin\Debug\16InstructionSet.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\16InstructionSet\obj\Debug\16InstructionSet.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\16InstructionSet\obj\Debug\16InstructionSet.pdb

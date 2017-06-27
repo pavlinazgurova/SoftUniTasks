@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

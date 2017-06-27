@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\20Dictionary\3SumMinMaxAverage\bin\Debug\3SumMinMaxAverage.exe.config
+D:\Унсс\СофтУни\Tech Module\20Dictionary\3SumMinMaxAverage\bin\Debug\3SumMinMaxAverage.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\3SumMinMaxAverage\bin\Debug\3SumMinMaxAverage.pdb
+D:\Унсс\СофтУни\Tech Module\20Dictionary\3SumMinMaxAverage\obj\Debug\3SumMinMaxAverage.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\3SumMinMaxAverage\obj\Debug\3SumMinMaxAverage.pdb

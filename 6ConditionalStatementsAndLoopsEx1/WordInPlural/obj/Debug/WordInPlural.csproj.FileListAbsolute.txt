@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\WordInPlural\bin\Debug\WordInPlural.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\WordInPlural\bin\Debug\WordInPlural.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\WordInPlural\bin\Debug\WordInPlural.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\WordInPlural\obj\Debug\WordInPlural.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\WordInPlural\obj\Debug\WordInPlural.pdb

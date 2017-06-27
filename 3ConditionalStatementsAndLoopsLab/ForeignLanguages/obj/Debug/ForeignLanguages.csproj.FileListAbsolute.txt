@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\ForeignLanguages\bin\Debug\ForeignLanguages.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\ForeignLanguages\obj\Debug\ForeignLanguages.pdb

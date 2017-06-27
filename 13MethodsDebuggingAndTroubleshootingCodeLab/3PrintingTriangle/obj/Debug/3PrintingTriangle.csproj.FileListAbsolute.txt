@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\bin\Debug\3PrintingTriangle.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\bin\Debug\3PrintingTriangle.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\bin\Debug\3PrintingTriangle.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\obj\Debug\3PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\obj\Debug\3PrintingTriangle.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\3PrintingTriangle\obj\Debug\3PrintingTriangle.pdb

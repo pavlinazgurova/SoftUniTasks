@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.pdb

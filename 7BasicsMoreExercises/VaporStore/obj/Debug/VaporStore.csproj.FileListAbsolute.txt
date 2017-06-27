@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\bin\Debug\VaporStore.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\VaporStore\obj\Debug\VaporStore.pdb

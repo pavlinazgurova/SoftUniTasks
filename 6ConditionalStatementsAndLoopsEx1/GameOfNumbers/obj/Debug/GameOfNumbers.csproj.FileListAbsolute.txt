@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\obj\Debug\GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

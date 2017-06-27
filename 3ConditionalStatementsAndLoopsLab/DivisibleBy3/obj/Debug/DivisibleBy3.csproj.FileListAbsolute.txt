@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\DivisibleBy3\bin\Debug\DivisibleBy3.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\DivisibleBy3\bin\Debug\DivisibleBy3.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\DivisibleBy3\bin\Debug\DivisibleBy3.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\DivisibleBy3\obj\Debug\DivisibleBy3.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\DivisibleBy3\obj\Debug\DivisibleBy3.pdb

@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\2NumberChecker\bin\Debug\2NumberChecker.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\2NumberChecker\bin\Debug\2NumberChecker.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\2NumberChecker\bin\Debug\2NumberChecker.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\2NumberChecker\obj\Debug\2NumberChecker.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\2NumberChecker\obj\Debug\2NumberChecker.pdb

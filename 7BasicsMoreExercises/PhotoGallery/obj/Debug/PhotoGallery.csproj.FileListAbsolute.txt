@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\bin\Debug\PhotoGallery.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\PhotoGallery\obj\Debug\PhotoGallery.csprojResolveAssemblyReference.cache

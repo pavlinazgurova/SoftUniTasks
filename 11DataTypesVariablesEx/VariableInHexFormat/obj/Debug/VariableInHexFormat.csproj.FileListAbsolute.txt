@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb

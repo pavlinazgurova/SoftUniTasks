@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\17BePositive\bin\Debug\17BePositive.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\17BePositive\bin\Debug\17BePositive.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\17BePositive\bin\Debug\17BePositive.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\17BePositive\obj\Debug\17BePositive.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\17BePositive\obj\Debug\17BePositive.pdb

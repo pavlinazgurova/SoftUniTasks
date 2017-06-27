@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\EmployeeData\obj\Debug\EmployeeData.pdb

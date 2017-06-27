@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

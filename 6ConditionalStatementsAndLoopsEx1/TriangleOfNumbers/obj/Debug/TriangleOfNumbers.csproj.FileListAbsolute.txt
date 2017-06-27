@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

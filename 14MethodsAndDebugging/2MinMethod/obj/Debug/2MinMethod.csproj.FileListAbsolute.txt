@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\2MinMethod\bin\Debug\2MinMethod.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\2MinMethod\bin\Debug\2MinMethod.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\2MinMethod\bin\Debug\2MinMethod.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\2MinMethod\obj\Debug\2MinMethod.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\2MinMethod\obj\Debug\2MinMethod.pdb

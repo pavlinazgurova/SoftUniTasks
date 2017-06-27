@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\bin\Debug\3SearchForaNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\bin\Debug\3SearchForaNumber.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\bin\Debug\3SearchForaNumber.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\obj\Debug\3SearchForaNumber.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\obj\Debug\3SearchForaNumber.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\3SearchForaNumber\obj\Debug\3SearchForaNumber.pdb

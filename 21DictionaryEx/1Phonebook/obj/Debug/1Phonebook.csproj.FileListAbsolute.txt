@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\bin\Debug\1Phonebook.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\bin\Debug\1Phonebook.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\bin\Debug\1Phonebook.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\obj\Debug\1Phonebook.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\obj\Debug\1Phonebook.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\1Phonebook\obj\Debug\1Phonebook.pdb

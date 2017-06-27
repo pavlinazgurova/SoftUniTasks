@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\bin\Debug\1CountRealNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\bin\Debug\1CountRealNumbers.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\bin\Debug\1CountRealNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\obj\Debug\1CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\obj\Debug\1CountRealNumbers.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\1CountRealNumbers\obj\Debug\1CountRealNumbers.pdb

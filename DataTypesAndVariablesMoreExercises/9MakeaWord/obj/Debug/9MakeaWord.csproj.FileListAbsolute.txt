@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\bin\Debug\9MakeaWord.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\bin\Debug\9MakeaWord.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\bin\Debug\9MakeaWord.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\obj\Debug\9MakeaWord.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\obj\Debug\9MakeaWord.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\9MakeaWord\obj\Debug\9MakeaWord.pdb

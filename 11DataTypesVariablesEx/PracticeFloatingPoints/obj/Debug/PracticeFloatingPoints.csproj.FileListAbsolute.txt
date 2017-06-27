@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\bin\Debug\PracticeFloatingPoints.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeFloatingPoints\obj\Debug\PracticeFloatingPoints.pdb

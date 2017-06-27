@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\bin\Debug\DifferentIntegersSize.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\DifferentIntegersSize\obj\Debug\DifferentIntegersSize.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\bin\Debug\1HelloName.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\bin\Debug\1HelloName.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\bin\Debug\1HelloName.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\obj\Debug\1HelloName.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\obj\Debug\1HelloName.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\1HelloName\obj\Debug\1HelloName.pdb

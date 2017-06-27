@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\bin\Debug\10CubeProperties.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\bin\Debug\10CubeProperties.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\bin\Debug\10CubeProperties.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\obj\Debug\10CubeProperties.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\obj\Debug\10CubeProperties.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\10CubeProperties\obj\Debug\10CubeProperties.pdb

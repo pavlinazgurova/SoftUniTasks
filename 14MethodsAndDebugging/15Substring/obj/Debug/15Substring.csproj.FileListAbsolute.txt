@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\15Substring\bin\Debug\15Substring.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\15Substring\bin\Debug\15Substring.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\15Substring\bin\Debug\15Substring.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\15Substring\obj\Debug\15Substring.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\15Substring\obj\Debug\15Substring.pdb

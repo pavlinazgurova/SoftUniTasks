@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\bin\Debug\2ChangeList.exe.config
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\bin\Debug\2ChangeList.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\bin\Debug\2ChangeList.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\obj\Debug\2ChangeList.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\obj\Debug\2ChangeList.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\2ChangeList\obj\Debug\2ChangeList.pdb

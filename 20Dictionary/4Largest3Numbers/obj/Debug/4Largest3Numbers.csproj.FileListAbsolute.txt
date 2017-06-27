@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\20Dictionary\4Largest3Numbers\bin\Debug\4Largest3Numbers.exe.config
+D:\Унсс\СофтУни\Tech Module\20Dictionary\4Largest3Numbers\bin\Debug\4Largest3Numbers.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\4Largest3Numbers\bin\Debug\4Largest3Numbers.pdb
+D:\Унсс\СофтУни\Tech Module\20Dictionary\4Largest3Numbers\obj\Debug\4Largest3Numbers.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\4Largest3Numbers\obj\Debug\4Largest3Numbers.pdb

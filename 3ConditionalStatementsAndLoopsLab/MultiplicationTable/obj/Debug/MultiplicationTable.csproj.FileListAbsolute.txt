@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

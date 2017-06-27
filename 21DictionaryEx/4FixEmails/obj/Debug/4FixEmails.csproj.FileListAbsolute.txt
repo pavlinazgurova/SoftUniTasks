@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\4FixEmails\bin\Debug\4FixEmails.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\4FixEmails\bin\Debug\4FixEmails.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\4FixEmails\bin\Debug\4FixEmails.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\4FixEmails\obj\Debug\4FixEmails.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\4FixEmails\obj\Debug\4FixEmails.pdb

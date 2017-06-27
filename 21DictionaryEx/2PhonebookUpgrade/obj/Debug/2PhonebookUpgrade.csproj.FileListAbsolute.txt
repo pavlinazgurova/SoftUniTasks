@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\2PhonebookUpgrade\bin\Debug\2PhonebookUpgrade.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\2PhonebookUpgrade\obj\Debug\2PhonebookUpgrade.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\2PhonebookUpgrade\obj\Debug\2PhonebookUpgrade.pdb

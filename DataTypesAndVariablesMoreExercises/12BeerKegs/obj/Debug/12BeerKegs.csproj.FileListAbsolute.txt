@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\bin\Debug\12BeerKegs.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\obj\Debug\12BeerKegs.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\bin\Debug\12BeerKegs.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\bin\Debug\12BeerKegs.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\obj\Debug\12BeerKegs.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\12BeerKegs\obj\Debug\12BeerKegs.pdb

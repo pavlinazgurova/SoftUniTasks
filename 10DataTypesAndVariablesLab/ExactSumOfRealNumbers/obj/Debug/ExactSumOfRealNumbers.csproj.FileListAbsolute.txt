@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

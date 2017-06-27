@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\bin\Debug\DifferentNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\bin\Debug\DifferentNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\bin\Debug\DifferentNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\obj\Debug\DifferentNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\obj\Debug\DifferentNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\DifferentNumbers\obj\Debug\DifferentNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\bin\Debug\1TypeBoundaries.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\bin\Debug\1TypeBoundaries.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\bin\Debug\1TypeBoundaries.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\obj\Debug\1TypeBoundaries.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\obj\Debug\1TypeBoundaries.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\1TypeBoundaries\obj\Debug\1TypeBoundaries.pdb

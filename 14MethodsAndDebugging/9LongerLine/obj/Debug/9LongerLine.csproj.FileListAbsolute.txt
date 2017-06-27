@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\bin\Debug\9LongerLine.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\bin\Debug\9LongerLine.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\bin\Debug\9LongerLine.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\obj\Debug\9LongerLine.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\obj\Debug\9LongerLine.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\9LongerLine\obj\Debug\9LongerLine.pdb

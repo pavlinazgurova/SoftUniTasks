@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CircleArea\bin\Debug\CircleArea.exe.config
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CircleArea\bin\Debug\CircleArea.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CircleArea\bin\Debug\CircleArea.pdb
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CircleArea\obj\Debug\CircleArea.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CircleArea\obj\Debug\CircleArea.pdb

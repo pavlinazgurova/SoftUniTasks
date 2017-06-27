@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\bin\Debug\3WaterOverflow.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\bin\Debug\3WaterOverflow.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\bin\Debug\3WaterOverflow.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\obj\Debug\3WaterOverflow.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\obj\Debug\3WaterOverflow.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\3WaterOverflow\obj\Debug\3WaterOverflow.pdb

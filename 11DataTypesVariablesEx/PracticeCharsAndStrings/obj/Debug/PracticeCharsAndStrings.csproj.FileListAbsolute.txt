@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeCharsAndStrings\bin\Debug\PracticeCharsAndStrings.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\PracticeCharsAndStrings\obj\Debug\PracticeCharsAndStrings.pdb

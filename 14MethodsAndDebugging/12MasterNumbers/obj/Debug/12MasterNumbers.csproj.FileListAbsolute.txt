@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\bin\Debug\12MasterNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\bin\Debug\12MasterNumbers.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\bin\Debug\12MasterNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\obj\Debug\12MasterNumbers.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\obj\Debug\12MasterNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\12MasterNumbers\obj\Debug\12MasterNumbers.csprojResolveAssemblyReference.cache

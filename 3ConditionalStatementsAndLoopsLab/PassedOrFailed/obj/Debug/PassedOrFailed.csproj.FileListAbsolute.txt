@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\PassedOrFailed\bin\Debug\PassedOrFailed.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\PassedOrFailed\bin\Debug\PassedOrFailed.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\PassedOrFailed\bin\Debug\PassedOrFailed.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\PassedOrFailed\obj\Debug\PassedOrFailed.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\PassedOrFailed\obj\Debug\PassedOrFailed.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\bin\Debug\6UserLogs.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\bin\Debug\6UserLogs.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\bin\Debug\6UserLogs.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\obj\Debug\6UserLogs.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\obj\Debug\6UserLogs.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\6UserLogs\obj\Debug\6UserLogs.pdb

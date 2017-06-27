@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\bin\Debug\X.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\bin\Debug\X.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\bin\Debug\X.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\obj\Debug\X.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\obj\Debug\X.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\X\obj\Debug\X.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\bin\Debug\13DecryptingMessages.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\bin\Debug\13DecryptingMessages.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\bin\Debug\13DecryptingMessages.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\obj\Debug\13DecryptingMessages.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\obj\Debug\13DecryptingMessages.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\13DecryptingMessages\obj\Debug\13DecryptingMessages.pdb

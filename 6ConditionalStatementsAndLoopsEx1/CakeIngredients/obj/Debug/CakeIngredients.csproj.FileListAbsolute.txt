@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CakeIngredients\bin\Debug\CakeIngredients.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CakeIngredients\bin\Debug\CakeIngredients.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CakeIngredients\bin\Debug\CakeIngredients.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CakeIngredients\obj\Debug\CakeIngredients.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\CakeIngredients\obj\Debug\CakeIngredients.pdb

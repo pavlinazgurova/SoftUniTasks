@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\TrainingHallEquipment\bin\Debug\TrainingHallEquipment.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\TrainingHallEquipment\obj\Debug\TrainingHallEquipment.pdb

@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\6MathPower\bin\Debug\6MathPower.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\6MathPower\bin\Debug\6MathPower.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\6MathPower\bin\Debug\6MathPower.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\6MathPower\obj\Debug\6MathPower.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\6MathPower\obj\Debug\6MathPower.pdb

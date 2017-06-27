@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.exe.config
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Greeting\bin\Debug\Greeting.pdb
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Greeting\obj\Debug\Greeting.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Greeting\obj\Debug\Greeting.pdb

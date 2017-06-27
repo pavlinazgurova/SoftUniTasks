@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\bin\Debug\Hotel.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\bin\Debug\Hotel.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\bin\Debug\Hotel.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\obj\Debug\Hotel.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\Hotel\obj\Debug\Hotel.pdb

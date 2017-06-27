@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\BPMCounter\bin\Debug\BPMCounter.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\BPMCounter\obj\Debug\BPMCounter.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\BPMCounter\obj\Debug\BPMCounter.pdb

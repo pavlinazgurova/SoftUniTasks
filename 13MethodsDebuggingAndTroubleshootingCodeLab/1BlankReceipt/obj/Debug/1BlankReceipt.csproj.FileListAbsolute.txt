@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\bin\Debug\1BlankReceipt.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\bin\Debug\1BlankReceipt.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\bin\Debug\1BlankReceipt.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\obj\Debug\1BlankReceipt.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\obj\Debug\1BlankReceipt.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\1BlankReceipt\obj\Debug\1BlankReceipt.pdb

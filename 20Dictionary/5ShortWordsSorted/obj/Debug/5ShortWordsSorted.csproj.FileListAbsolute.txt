@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\20Dictionary\5ShortWordsSorted\bin\Debug\5ShortWordsSorted.exe.config
+D:\Унсс\СофтУни\Tech Module\20Dictionary\5ShortWordsSorted\bin\Debug\5ShortWordsSorted.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\5ShortWordsSorted\bin\Debug\5ShortWordsSorted.pdb
+D:\Унсс\СофтУни\Tech Module\20Dictionary\5ShortWordsSorted\obj\Debug\5ShortWordsSorted.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\5ShortWordsSorted\obj\Debug\5ShortWordsSorted.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\bin\Debug\NeighbourWars.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\bin\Debug\NeighbourWars.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\bin\Debug\NeighbourWars.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\obj\Debug\NeighbourWars.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\NeighbourWars\obj\Debug\NeighbourWars.pdb

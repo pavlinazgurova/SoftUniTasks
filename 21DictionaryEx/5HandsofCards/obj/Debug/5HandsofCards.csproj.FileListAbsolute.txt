@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\bin\Debug\5HandsofCards.exe.config
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\bin\Debug\5HandsofCards.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\bin\Debug\5HandsofCards.pdb
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\obj\Debug\5HandsofCards.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\obj\Debug\5HandsofCards.exe
+D:\Унсс\СофтУни\Tech Module\21DictionaryEx\5HandsofCards\obj\Debug\5HandsofCards.pdb

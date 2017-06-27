@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\bin\Debug\6SumReversedNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\bin\Debug\6SumReversedNumbers.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\bin\Debug\6SumReversedNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\obj\Debug\6SumReversedNumbers.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\obj\Debug\6SumReversedNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\6SumReversedNumbers\obj\Debug\6SumReversedNumbers.csprojResolveAssemblyReference.cache

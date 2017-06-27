@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\bin\Debug\7BombNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\bin\Debug\7BombNumbers.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\bin\Debug\7BombNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\obj\Debug\7BombNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\obj\Debug\7BombNumbers.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\7BombNumbers\obj\Debug\7BombNumbers.pdb

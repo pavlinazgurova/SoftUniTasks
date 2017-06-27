@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\TheatrePromotion.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\TheatrePromotion.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\TheatrePromotion.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\TheatrePromotion.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\TheatrePromotion.pdb

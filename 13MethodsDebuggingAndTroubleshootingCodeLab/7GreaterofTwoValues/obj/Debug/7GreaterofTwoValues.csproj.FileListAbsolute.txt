@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\7GreaterofTwoValues\bin\Debug\7GreaterofTwoValues.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\7GreaterofTwoValues\bin\Debug\7GreaterofTwoValues.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\7GreaterofTwoValues\bin\Debug\7GreaterofTwoValues.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\7GreaterofTwoValues\obj\Debug\7GreaterofTwoValues.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\7GreaterofTwoValues\obj\Debug\7GreaterofTwoValues.pdb

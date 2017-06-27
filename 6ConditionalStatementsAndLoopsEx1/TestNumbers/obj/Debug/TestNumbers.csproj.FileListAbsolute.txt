@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\bin\Debug\TestNumbers.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\bin\Debug\TestNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\bin\Debug\TestNumbers.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\obj\Debug\TestNumbers.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\obj\Debug\TestNumbers.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\TestNumbers\obj\Debug\TestNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.exe.config
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\bin\Debug\DNASequences.pdb
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\obj\Debug\DNASequences.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\obj\Debug\DNASequences.exe
+D:\Унсс\СофтУни\Tech Module\7BasicsMoreExercises\DNASequences\obj\Debug\DNASequences.pdb

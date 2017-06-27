@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\bin\Debug\1Max Sequence of Equal Elements.exe.config
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\bin\Debug\1Max Sequence of Equal Elements.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\bin\Debug\1Max Sequence of Equal Elements.pdb
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\obj\Debug\1Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\obj\Debug\1Max Sequence of Equal Elements.exe
+D:\Унсс\СофтУни\Tech Module\19ListsEx\1Max Sequence of Equal Elements\obj\Debug\1Max Sequence of Equal Elements.pdb

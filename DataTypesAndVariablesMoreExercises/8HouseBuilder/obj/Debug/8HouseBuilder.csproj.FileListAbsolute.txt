@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\bin\Debug\8HouseBuilder.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\bin\Debug\8HouseBuilder.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\bin\Debug\8HouseBuilder.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\obj\Debug\8HouseBuilder.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\obj\Debug\8HouseBuilder.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\8HouseBuilder\obj\Debug\8HouseBuilder.pdb

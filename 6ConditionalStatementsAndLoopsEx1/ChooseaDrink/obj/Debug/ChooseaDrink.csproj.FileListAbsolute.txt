@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\ChooseaDrink\bin\Debug\ChooseaDrink.exe.config
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\ChooseaDrink\bin\Debug\ChooseaDrink.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\ChooseaDrink\bin\Debug\ChooseaDrink.pdb
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\ChooseaDrink\obj\Debug\ChooseaDrink.exe
+D:\Унсс\СофтУни\Tech Module\6ConditionalStatementsAndLoopsEx1\ChooseaDrink\obj\Debug\ChooseaDrink.pdb

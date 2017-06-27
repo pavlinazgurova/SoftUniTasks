@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\BackIn30Minutes1\bin\Debug\BackIn30Minutes1.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\BackIn30Minutes1\bin\Debug\BackIn30Minutes1.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\BackIn30Minutes1\bin\Debug\BackIn30Minutes1.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\BackIn30Minutes1\obj\Debug\BackIn30Minutes1.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\BackIn30Minutes1\obj\Debug\BackIn30Minutes1.pdb

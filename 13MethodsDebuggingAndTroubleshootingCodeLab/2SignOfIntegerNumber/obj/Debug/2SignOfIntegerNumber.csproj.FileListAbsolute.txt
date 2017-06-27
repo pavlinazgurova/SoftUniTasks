@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\bin\Debug\2SignOfIntegerNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\bin\Debug\2SignOfIntegerNumber.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\bin\Debug\2SignOfIntegerNumber.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\obj\Debug\2SignOfIntegerNumber.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\obj\Debug\2SignOfIntegerNumber.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\2SignOfIntegerNumber\obj\Debug\2SignOfIntegerNumber.pdb

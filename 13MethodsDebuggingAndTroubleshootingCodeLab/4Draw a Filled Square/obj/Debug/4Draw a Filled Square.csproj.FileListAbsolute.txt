@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\4Draw a Filled Square\bin\Debug\4Draw a Filled Square.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\4Draw a Filled Square\bin\Debug\4Draw a Filled Square.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\4Draw a Filled Square\bin\Debug\4Draw a Filled Square.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\4Draw a Filled Square\obj\Debug\4Draw a Filled Square.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\4Draw a Filled Square\obj\Debug\4Draw a Filled Square.pdb

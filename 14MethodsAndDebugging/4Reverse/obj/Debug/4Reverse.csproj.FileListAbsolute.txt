@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\bin\Debug\4Reverse.exe.config
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\bin\Debug\4Reverse.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\bin\Debug\4Reverse.pdb
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\obj\Debug\4Reverse.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\obj\Debug\4Reverse.exe
+D:\Унсс\СофтУни\Tech Module\14MethodsAndDebugging\4Reverse\obj\Debug\4Reverse.pdb

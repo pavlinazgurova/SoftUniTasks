@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Elevator\bin\Debug\Elevator.exe.config
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Elevator\bin\Debug\Elevator.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Elevator\bin\Debug\Elevator.pdb
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Elevator\obj\Debug\Elevator.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\Elevator\obj\Debug\Elevator.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+D:\Унсс\СофтУни\Tech Module\10DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

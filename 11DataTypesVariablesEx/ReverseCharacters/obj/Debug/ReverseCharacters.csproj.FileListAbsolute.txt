@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

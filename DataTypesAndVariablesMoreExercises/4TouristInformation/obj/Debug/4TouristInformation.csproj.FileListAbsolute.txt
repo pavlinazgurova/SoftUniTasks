@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\4TouristInformation\bin\Debug\4TouristInformation.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\4TouristInformation\bin\Debug\4TouristInformation.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\4TouristInformation\bin\Debug\4TouristInformation.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\4TouristInformation\obj\Debug\4TouristInformation.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\4TouristInformation\obj\Debug\4TouristInformation.pdb

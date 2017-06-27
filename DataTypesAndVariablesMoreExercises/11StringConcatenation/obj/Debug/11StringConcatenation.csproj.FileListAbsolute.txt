@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\bin\Debug\11StringConcatenation.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\bin\Debug\11StringConcatenation.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\bin\Debug\11StringConcatenation.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\obj\Debug\11StringConcatenation.csprojResolveAssemblyReference.cache
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\obj\Debug\11StringConcatenation.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\11StringConcatenation\obj\Debug\11StringConcatenation.pdb

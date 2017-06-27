@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MonthPrinter\bin\Debug\MonthPrinter.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MonthPrinter\bin\Debug\MonthPrinter.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MonthPrinter\obj\Debug\MonthPrinter.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\MonthPrinter\obj\Debug\MonthPrinter.pdb

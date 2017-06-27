@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Унсс\СофтУни\Tech Module\11DataTypesVariablesEx\BooleanVariable\obj\Debug\BooleanVariable.pdb

@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.exe.config
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\bin\Debug\OddNumber.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\obj\Debug\OddNumber.exe
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\obj\Debug\OddNumber.pdb
+D:\Унсс\СофтУни\Tech Module\3ConditionalStatementsAndLoopsLab\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache

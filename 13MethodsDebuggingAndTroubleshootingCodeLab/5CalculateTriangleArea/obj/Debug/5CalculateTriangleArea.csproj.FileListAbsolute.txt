@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\5CalculateTriangleArea\bin\Debug\5CalculateTriangleArea.exe.config
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\5CalculateTriangleArea\bin\Debug\5CalculateTriangleArea.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\5CalculateTriangleArea\bin\Debug\5CalculateTriangleArea.pdb
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\5CalculateTriangleArea\obj\Debug\5CalculateTriangleArea.exe
+D:\Унсс\СофтУни\Tech Module\13MethodsDebuggingAndTroubleshootingCodeLab\5CalculateTriangleArea\obj\Debug\5CalculateTriangleArea.pdb

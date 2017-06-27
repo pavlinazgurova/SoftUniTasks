@@ -1,0 +1,5 @@
+D:\Унсс\СофтУни\Tech Module\20Dictionary\2OddOccurrences\bin\Debug\2OddOccurrences.exe.config
+D:\Унсс\СофтУни\Tech Module\20Dictionary\2OddOccurrences\bin\Debug\2OddOccurrences.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\2OddOccurrences\bin\Debug\2OddOccurrences.pdb
+D:\Унсс\СофтУни\Tech Module\20Dictionary\2OddOccurrences\obj\Debug\2OddOccurrences.exe
+D:\Унсс\СофтУни\Tech Module\20Dictionary\2OddOccurrences\obj\Debug\2OddOccurrences.pdb

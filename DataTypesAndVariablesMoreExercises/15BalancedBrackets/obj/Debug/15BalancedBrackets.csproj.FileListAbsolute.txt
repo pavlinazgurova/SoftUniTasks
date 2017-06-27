@@ -1,0 +1,6 @@
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\bin\Debug\15BalancedBrackets.exe.config
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\bin\Debug\15BalancedBrackets.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\bin\Debug\15BalancedBrackets.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\obj\Debug\15BalancedBrackets.exe
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\obj\Debug\15BalancedBrackets.pdb
+D:\Унсс\СофтУни\Tech Module\DataTypesAndVariablesMoreExercises\15BalancedBrackets\obj\Debug\15BalancedBrackets.csprojResolveAssemblyReference.cache
